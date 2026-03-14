@@ -1,4 +1,3 @@
-Markdown
 # packet_monitor
 
 A lightweight Netfilter kernel module (`NF_INET_PRE_ROUTING`) for IPv4 traffic accounting and IP-based filtering. 
